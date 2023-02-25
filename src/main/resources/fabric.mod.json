@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "invisibleframes",
+  "version": "${version}",
+  "name": "Invisible Frames",
+  "description": "Easily toggle invisibility on your item frames by sneaking.",
+  "authors": [
+    "Roundaround"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/roundaround-invisible-frames",
+    "sources": "https://github.com/Roundaround/mc-fabric-invisible-frames",
+    "issues": "https://github.com/Roundaround/mc-fabric-invisible-frames/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/invisibleframes/icon.png",
+  "environment": "*",
+  "mixins": [
+    "invisibleframes.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.19.x",
+    "java": ">=17"
+  }
+}
