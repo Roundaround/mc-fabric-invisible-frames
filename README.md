@@ -8,7 +8,7 @@ Easily toggle invisibility on your item frames by sneaking.
 
 ## Download
 
-https://modrinth.com/mod/roundaround-invisible-frames-frames
+https://modrinth.com/mod/roundaround-invisible-frames
 
 ## License
 
