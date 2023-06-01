@@ -3,7 +3,7 @@
   "id": "invisibleframes",
   "version": "${version}",
   "name": "Invisible Frames",
-  "description": "Easily toggle invisibility on your item frames by sneaking.",
+  "description": "Easily toggle invisibility on your item frames by sneaking.\n${library}",
   "authors": [
     "Roundaround"
   ],
@@ -20,8 +20,8 @@
   ],
   "depends": {
     "fabricloader": ">=0.13.3",
-    "fabric": "*",
-    "minecraft": "1.19.x",
+    "fabric-api": "*",
+    "minecraft": ">=1.20-beta.1 <1.21",
     "java": ">=17"
   }
 }
