@@ -1,3 +1,4 @@
 plugins {
-  id("roundalib") version "0.7.0-SNAPSHOT"
+  id("fabric-loom") version "1.9-SNAPSHOT"
+  id("roundalib") version "0.9.0-SNAPSHOT"
 }
