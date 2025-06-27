@@ -4,6 +4,7 @@
   "package": "me.roundaround.invisibleframes.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "AbstractDecorationEntityMixin",
     "ItemFrameEntityMixin"
   ],
   "client": [],
