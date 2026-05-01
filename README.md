@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/MC-26.1--26.1.2%20|%201.21%20|%201.20%20|%201.19%20|%201.18.2-313e51?style=for-the-badge)
 ![](https://img.shields.io/badge/Side-Server-313e51?style=for-the-badge)
 
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/invisible-frames?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/invisible-frames)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/invisible-frames-mod?style=flat&logo=modrinth&color=00AF5C)](https://modrinth.com/mod/invisible-frames-mod)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1295518?style=flat&logo=curseforge&color=F16436)](https://www.curseforge.com/minecraft/mc-mods/rounds-invisible-frames)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Roundaround/mc-fabric-invisible-frames?style=flat&logo=github)](https://github.com/Roundaround/mc-fabric-invisible-frames)
 
